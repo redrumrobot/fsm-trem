@@ -13,12 +13,11 @@
 
 		*-*Tremulous client info* 
 			* _set cvar /snd_useopenal to 1._
-			* _bind "+voiprecord" to a key by doing /bind q +voiprecord or set the  cvar /cl_voipsend 1 for automatic sending of chat.
+			* _bind "+voiprecord" to a key by doing /bind q +voiprecord or set the  cvar /cl_voipsend 1 for automatic sending of chat._
 			* _press the key you bound in the step above (in this example it was q) and talk._
 
 *How is the default devices set.*
-	in linux you need to write a _~/.openalrc_
-	here is a sample file replace "capture device" and "playback device" with the 
+	in linux you need to write a _~/.openalrc_ file, here is a sample file replace "capture device" and "playback device" with the 
 	devices you want to use. (for example playback device might be set to 
 	"front" or "default")
 {{{
