@@ -1,0 +1,10 @@
+Here is a little F.A.Q. page to help you along with upgrading your client.
+
+*Q*. When i use your client, it seems alot brighter, how do i fix it?.
+
+*A*. In the new clients, gamma was changed to be alot brighter than the old, to fix this try the following.
+
+  * _Type /r_gamma 1.5, or /r_gamma 2, and see if that helps._
+  * _Type /r_overBrightBits 0, and see if that helps._
+
+If neither of those help, please contact a project member.
