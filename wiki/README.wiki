@@ -59,3 +59,5 @@ TBA
 _TBA = To Be Added_
 
 _[http://www.apple.com/downloads/macosx/games/action_adventure/tremulous.html Tremulous from Apple]_
+
+http://gplv3.fsf.org/gplv3-127x51.png
