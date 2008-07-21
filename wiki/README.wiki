@@ -1,5 +1,7 @@
 #labels Phase-Deploy,Featured
-{{{                        ___         ___         ___    
+*Copy of README*
+{{{
+                           ___         ___         ___    
                           /  /\       /  /\       /  /\
                          /  /  \     /  /  \     /  /  |
                         /  / /\ \   /__/ /\ \   /  / | |
