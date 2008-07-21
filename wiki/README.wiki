@@ -32,21 +32,6 @@ This location can vary, but most often is placed in /usr/share/libs/tremulous
 Place the client in /Applications/tremulous-20060625 folder, assuming you downloaded to client from Apple Downloads.
 
 =====================================
-QKEY
-=====================================
-
-If you do not have a QKEY, Tremulous will create one upon first startup. Though, if you have one already, it might be important to move it to the correct location.
-
-*Windows*
-The TJW QKEY is placed in C:\Program Files\Tremulous\base\. In FSM, it is located in C:\Documents and Settings\<user name>\Local Settings\Application Data\Tremulous.
-
-*Linux*
-Both keys are located in ~/.tremulous/base
-
-*Mac OS X*
-TBA
-
-=====================================
 Credits
 =====================================
 TBA
