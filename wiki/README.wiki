@@ -1,0 +1,55 @@
+#labels Phase-Deploy,Featured
+{{{                        ___         ___         ___    
+                          /  /\       /  /\       /  /\
+                         /  /  \     /  /  \     /  /  |
+                        /  / /\ \   /__/ /\ \   /  / | |
+                       /  /  \_\/  _\__\ \_\/  /__/ /| |__
+                      /  / /\ \   /__/\ \ \    \__\/_|    \
+                     /__/ /\_\/   \  \ \/ /          /--/ /
+                     \__\/         \  \  /          /  / /     
+                                    \__\/          /__/ /
+                                                   \__\/
+
+                                        | |
+                      _ __ ___  __ _  __| |_ __ ___   ___ 
+                     | '__/ _ \/ _` |/ _` | '_ ` _ \ / _ \
+                     | | |  __/ (_| | (_| | | | | | |  __/
+                     |_|  \___|\__,_|\__,_|_| |_| |_|\___|
+=============================================================================
+
+=====================================
+Installation
+=====================================
+*Windows*
+Place the client in C:\Program Files\Tremulous and overwrite the current client.
+
+*Linux*
+This location can vary, but most often is placed in /usr/share/libs/tremulous
+
+*OS X*
+Place the client in /Applications/tremulous-20060625 folder, considering you downloaded to client from [http://www.apple.com/downloads/macosx/games/action_adventure/tremulous.html Apple - Downloads]
+
+=====================================
+QKEY
+=====================================
+
+If you do not have a QKEY, Tremulous will create one upon first startup. Though, if you have one already, it might be important to move it to the correct location.
+
+*Windows*
+The TJW QKEY is placed in C:\Program Files\Tremulous\base\. In FSM, it is located in C:\Documents and Settings\<user name>\Local Settings\Application Data\Tremulous.
+
+*Linux*
+Both keys are located in ~/.tremulous/base
+
+*Mac OS X*
+TBA
+
+=====================================
+Credits
+=====================================
+TBA
+
+
+_TBA = To Be Added_
+
+}}}
