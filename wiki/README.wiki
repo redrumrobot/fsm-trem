@@ -29,7 +29,7 @@ Place the client in C:\Program Files\Tremulous and overwrite the current client.
 This location can vary, but most often is placed in /usr/share/libs/tremulous
 
 *OS X*
-Place the client in /Applications/tremulous-20060625 folder, assuming you downloaded to client from [http://www.apple.com/downloads/macosx/games/action_adventure/tremulous.html Apple - Downloads]
+Place the client in /Applications/tremulous-20060625 folder, assuming you downloaded to client from Apple Downloads.
 
 =====================================
 QKEY
@@ -57,3 +57,5 @@ TBA
 }}}
 
 _TBA = To Be Added_
+
+_[http://www.apple.com/downloads/macosx/games/action_adventure/tremulous.html Tremulous from Apple]_
