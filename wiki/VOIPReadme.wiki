@@ -3,18 +3,18 @@
 
 *1. mumble support (http://mumble.sourceforge.net/) *: This allows mumble to display others ingame position. to use this feature start mumble then set the cvar cl_usemumble to 1.
 
-*2. TremDED VOIP Support*: Tremded gained VOIP support in revision 1099
+*2. Tremded VOIP Support*: Tremded gained VOIP support in revision 1099
 	*-*quick start guide:*
-		_-run our tremded and tremulous binarys or any client/server thats based on revision 1099+_
-		_-make sure /rate is 25000 or your connection settings are set to broadband or above._
+		* _run our tremded and tremulous binarys or any client/server thats based on revision 1099+_
+		* _make sure /rate is 25000 or your connection settings are set to broadband or above._
 
 		*-*Tremded only info* 
-			_-set sv_voip to 1._
+			* _set sv_voip to 1._
 
 		*-*Tremulous client info* 
-			_-set cvar /snd_useopenal to 1._
-			_-bind voiprecord to a key by doing /bind q +voiprecord ot set the  cvar /cl_vopusevad 1 for automatic sending of chat.
-			-press the key you bound in the step above (in this example it was q) and talk._
+			* _set cvar /snd_useopenal to 1._
+			* _bind "+voiprecord" to a key by doing /bind q +voiprecord or set the  cvar /cl_voipsend 1 for automatic sending of chat.
+			* _press the key you bound in the step above (in this example it was q) and talk._
 
 *How is the default devices set.*
 	in linux you need to write a _~/.openalrc_
