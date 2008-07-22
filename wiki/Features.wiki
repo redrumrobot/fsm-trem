@@ -1,0 +1,30 @@
+#labels Featured
+= Client =
+*Sort by ping works*
+Author: Amanieu
+Description: Now you can view servers by ping, which didn't work in the old clients.
+
+*Messagemode 5*
+Author:
+Description: This you can bind to a key with "/bind key messagemode5", any text entered and sent will be sent to admins.
+
+*Black to gray in console*
+Author: Benmachine
+Description: This will allow you to now see black text in the console.
+
+*Less spam in console*
+Author: Amanieu
+Description: Now you don't get a buttload of text when you change maps in the console.
+
+*Warntime*
+Author: Rezyn
+Description: Displays the time, timelimit, and sudden death in the chat.
+
+*If, math, and cvar parser*
+Author: Amanieu
+Description: Allowing the usage of if, math, and cvar parsing with binds vstrs
+
+= Server =
+*Backwards compatibility for cURL*
+Author: Mercury
+Description: This just adds two cvars back to the server, which enables old style client cURL downloads again.
