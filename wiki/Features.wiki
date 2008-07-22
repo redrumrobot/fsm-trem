@@ -35,7 +35,7 @@ Description: Displays the time, timelimit, and sudden death in the chat.
 
 Author: Amanieu
 
-Description: Allowing the usage of if, math, and cvar parsing with binds vstrs
+Description: Allowing the usage of if, math, and cvar parsing with binds vstrs.
 
 = Server =
 ----
