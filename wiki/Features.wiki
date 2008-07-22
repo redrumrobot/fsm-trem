@@ -1,6 +1,6 @@
 #labels Featured
 = Client =
-
+----
 ===Sort by ping works===
 
 Author: Amanieu
@@ -38,7 +38,7 @@ Author: Amanieu
 Description: Allowing the usage of if, math, and cvar parsing with binds vstrs
 
 = Server =
-
+----
 ===Backwards compatibility for cURL===
 
 Author: Mercury
