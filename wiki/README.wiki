@@ -26,8 +26,7 @@ Installation
 Place the client in C:\Program Files\Tremulous and overwrite the current client.
 
 *Linux*
-This location can vary, but most often is placed in /usr/share/libs/tremulous
-
+This location can vary, but most often is placed in /usr/local/games/tremulous
 *OS X*
 Place the client in /Applications/tremulous-20060625 folder, assuming you downloaded the client from Apple Downloads.
 
