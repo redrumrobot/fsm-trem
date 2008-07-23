@@ -1,22 +1,11 @@
 #labels Featured
-*Here is a list of codenames used by the client*
-
-
 ===Development:===
 
 *Detonator*
 Alpha/Active development builds are codenamed Detonator. This will be noticeable in the lower right hand corner of the console (~ key, beside the 1, and above the TAB key).
-Detonator builds will only be available over SVN. Premade builds will not be available. 
-
-*Preview*
-Beta/Release Candidate builds are codenamed Preview + revision name. This will be noticeable in the lower right hand part of the console (~ key, beside the 1, and above the TAB key).
+Detonator builds will only be available over SVN.
 
 ===Release:===
 
 *Final*
-Final/Stable builds are named individually. The name will be noticeable in the lower right hand part of the console (~ key, beside the 1, and above the TAB key).
-
-
-
-Here is the list of depreciated codenames:
-N/A
+Final/Stable builds are named individually by project members. The name will be noticeable in the lower right hand part of the console (~ key, beside the 1, and above the TAB key).
