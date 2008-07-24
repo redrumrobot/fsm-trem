@@ -5,10 +5,20 @@ The icons in Trem are... how shall I say this... incredibly outdated. I've prepa
 
 High Res:
 
-http://i116.photobucket.com/albums/o3/frak10/Tremulous2.png http://i116.photobucket.com/albums/o3/frak10/TremLin.png http://i116.photobucket.com/albums/o3/frak10/TremXP.png http://i116.photobucket.com/albums/o3/frak10/Tremulous.png
+Windows XP/Vista
 
-The second image is fully tango compliant.
+http://i116.photobucket.com/albums/o3/frak10/Tremulous2-1.png
+
+Low Res (Desktop):
+
+http://i116.photobucket.com/albums/o3/frak10/Tremulous2lowres.png
+
+High Res
+
+Mac OS X
+
+http://i116.photobucket.com/albums/o3/frak10/TremulousX.png
 
 Low Res:
 
-http://i116.photobucket.com/albums/o3/frak10/WindowsXPSnapshot.jpg
+http://i116.photobucket.com/albums/o3/frak10/TremulousXlowres.png
