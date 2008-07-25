@@ -3,9 +3,10 @@
 
 The icons in Trem are... how shall I say this... incredibly outdated. I've prepared a set of icons (high res) for Vista/XP, OS X, and Linux.
 
-High Res:
 
 Windows XP/Vista
+
+High Res:
 
 http://i116.photobucket.com/albums/o3/frak10/Tremulous2-1.png
 
