@@ -1,7 +1,7 @@
 #labels Phase-Design
 *New Icons for FSM tremulous*
 
-The icons in Trem are... how shall I say this... incredibly outdated. I've prepared a set of icons (high res) for Vista, OS X, and Linux. I'll work on XP soon, as it needs much, much smaller icons (32x32 for Desktop, 24x24 for Menu).
+The icons in Trem are... how shall I say this... incredibly outdated. I've prepared a set of icons (high res) for Vista/XP, OS X, and Linux.
 
 High Res:
 
