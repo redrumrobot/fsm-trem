@@ -5,7 +5,7 @@
 
 *2. Tremded VOIP Support*: Tremded gained VOIP support in revision 1099
 	*-*quick start guide:*
-		* _run our tremded and tremulous binarys or any client/server thats based on revision 1099+_
+		* _run our tremded and tremulous binaries or any client/server thats based on revision 1099+_
 		* _make sure /rate is 25000 or your connection settings are set to broadband or above._
 
 		*-*Tremded only info* 
@@ -26,6 +26,8 @@
 		(define alsa-in-device "capture device")
 		(define speaker-num 2)
 }}}
+
+----
 
 *CVAR list from ioquake3 documentation and their functions:*
 
