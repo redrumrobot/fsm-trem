@@ -1,6 +1,13 @@
 #labels Featured
 = Client =
 ----
+
+===Console color controls===
+
+Author: Mercury
+
+Description: This will allow you to control the color, and transparency of the console, along with the ability to control the color, transparency, and height of the bar below the console.
+
 ===Sort by ping works===
 
 Author: Amanieu
@@ -9,7 +16,7 @@ Description: Now you can view servers by ping, which didn't work in the old clie
 
 ===Messagemode 5===
 
-Author:
+Author: Critux
 
 Description: This you can bind to a key with "/bind key messagemode5", any text entered and sent will be sent to admins.
 
