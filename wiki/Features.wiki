@@ -15,7 +15,7 @@ Author: Jordi Prats Catala and Guillermo Miranda Alamo
 Description: This adds two cvars, r_celoutline and r_celshadalgo, these allow you to enable/disable the Cel-Shading effect in Tremulous
 
 r_celshadalgo options:
-
+{{{
 snn = Symmetric Nearest Neighbour
 
 1: kuwahara
@@ -26,6 +26,7 @@ snn = Symmetric Nearest Neighbour
 6: blur & snn
 7: snn & blur
 8: blur & snn & blur
+}}}
 
 ===Messagemode arguments===
 
