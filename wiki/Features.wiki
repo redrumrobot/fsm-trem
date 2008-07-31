@@ -6,7 +6,7 @@
 
 Author: Harekiet
 
-Description: This allows you to enable/disable a *bloom* effect with the in tremulous, cvar: r_bloom*, to view all the cvars, type r_bloom in the console and press TAB.
+Description: This allows you to enable/disable a *bloom* effect with the in tremulous, cvar: r_bloom, to view all the cvars, type r_bloom in the console and press TAB.
 
 ===Cel-Shading===
 
