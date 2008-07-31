@@ -2,11 +2,42 @@
 = Client =
 ----
 
+===Bloom===
+
+Author: Harekiet
+
+Description: This allows you to enable/disable a *bloom* effect with the in tremulous, cvar: r_bloom*, to view all the cvars, type r_bloom in the console and press TAB.
+
+===Cel-Shading===
+
+Author: Jordi Prats Catala and Guillermo Miranda Alamo
+
+Description: This adds two cvars, r_celoutline and r_celshadalgo, these allow you to enable/disable the Cel-Shading effect in Tremulous
+
+r_celshadalgo options:
+
+snn = Symmetric Nearest Neighbour
+
+1: kuwahara
+2: blur & kuwahara
+3: kuwahara & blur
+4: blur & kuwahara  & blur
+5: snn
+6: blur & snn
+7: snn & blur
+8: blur & snn & blur
+
+===Messagemode arguments===
+
+Author: Benmachine
+
+Description: Allows you to pre-set text in messagemodes, ex: /bind x messagemode FSM, will display FSM in the Say menu
+
 ===Console color controls===
 
 Author: Mercury
 
-Description: This will allow you to control the color, and transparency of the console, along with the ability to control the color, transparency, and height of the bar below the console.
+Description: This will allow you to control the color, and transparency of the console, along with the ability to control the color, transparency, and height of the bar below the console, cvar: scr_conColor* and scr_conBar*, to view all the cvars type /scr_con and press TAB.
 
 ===Sort by ping works===
 
