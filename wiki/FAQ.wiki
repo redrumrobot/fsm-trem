@@ -20,4 +20,4 @@ If neither of those help, please contact a project member.
 
 *Q*. When i try to make a server in tremulous, my tremulous crashes!
 
-*A*. This is due to a backporting problem, simply place the [http://fsm-trem.googlecode.com/issues/attachment?aid=-3727428234723319649&name=vms-1.1.0.pk3 this] file in your base folder, and it should work again.
+*A*. This is due to a backporting problem, simply place [http://fsm-trem.googlecode.com/issues/attachment?aid=-3727428234723319649&name=vms-1.1.0.pk3 this] file in your base folder, and it should work again.
