@@ -67,12 +67,6 @@ p_score
 p_killed
 }}}
 
-===P_Statistics===
-
-Author: Google
-
-Description: Various player statistics in a read-only cvar for binds.
-
 ===VOIP Client Name and Number===
 
 Author: Google
