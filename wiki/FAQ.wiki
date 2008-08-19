@@ -26,4 +26,4 @@ If neither of those help, please contact a project member.
 
 *Q*. When I try to run Tremulous, it says X.dll was not found!
 
-*A*. Unzip and place the contents of the [http://fsm-trem.googlecode.com/files/dll-library.zip Windows Dynamic Link Libraries (DLL)] package besides your tremulous executable. This includes an mp3, ogg, vorbis, curl, and Lukitu7 SDL libraries.
+*A*. Unzip and place the contents of the [http://fsm-trem.googlecode.com/files/dll-library.zip Windows Dynamic Link Libraries (DLL)] package besides your tremulous executable. This includes an mp3, ogg, vorbis, curl, and Lakitu7 SDL libraries.
