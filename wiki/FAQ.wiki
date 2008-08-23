@@ -27,3 +27,19 @@ If neither of those help, please contact a project member.
 *Q*. When I try to run Tremulous, it says X.dll was not found!
 
 *A*. Unzip and place the contents of the [http://fsm-trem.googlecode.com/files/dll-library.zip Windows Dynamic Link Libraries (DLL)] package besides your tremulous executable. This includes an mp3, ogg, vorbis, curl, and Lakitu7 SDL libraries.
+
+----
+
+*Q*. When i try to compile from your SVN, I get random mp3/ogg errors.
+
+*A*. Our SVN has MP3 and OGG support on by default, you will either need to do two things
+
+_1_: You need to install the correct libraries to your compiling environment, as explained by the following...
+
+(Linux) - You need to add libmad, libogg, and libvorbis from your distro's repos.
+
+(Windows) - *Insert windows instructions here*
+
+(Mac OSX) - *Insert mac instructions here*
+
+_2_: Or you can disable MP3 and OGG support in the makefile, open the makefile, and scroll down till you see "USE_CODEC_MP3" and "USE_CODEC_VORBIS", and set both to 0 to disable support
