@@ -40,6 +40,6 @@ _1_: You need to install the correct libraries to your compiling environment, as
 
 (Windows) - *Insert windows instructions here*
 
-(Mac OSX) - *Insert mac instructions here*
+(Mac OSX) - Use the script to make a universal binary.  Universal versions of the necessary libraries have been added to svn, but they may or may not work when the client is started via a command-line.
 
 _2_: Or you can disable MP3 and OGG support in the makefile, open the makefile, and scroll down till you see "USE_CODEC_MP3" and "USE_CODEC_VORBIS", and set both to 0 to disable support
